@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756969089672",
+    "firebase_url": "https://diygood.firebaseio.com",
+    "project_id": "diygood",
+    "storage_bucket": "diygood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756969089672:android:a822b782ebbfb21b",
+        "android_client_info": {
+          "package_name": "swu.com.good_diy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756969089672-qlm2fb12f8hvaqnqia6jlvnmdjisq4l5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "swu.com.good_diy",
+            "certificate_hash": "2311d4d97fd1660edbcef48f497d7533587dd206"
+          }
+        },
+        {
+          "client_id": "756969089672-5bas7r8og9qpsmh2a5sltuq1ldg0ucmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKSL5OYLma3SE1cNZtT4REWAMW5lCuje0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756969089672-5bas7r8og9qpsmh2a5sltuq1ldg0ucmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
